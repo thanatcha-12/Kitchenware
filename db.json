@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+            "quantity": 1,
+            "imageSrc": "https://afralia.com/cdn/shop/files/Sb18820adb4ad40aea8af70aae1708802y_800x.webp?v=1712391957",
+            "name": "หม้อ",
+            "price": 12
+        },
+        {
+            "quantity": 2,
+            "imageSrc": "https://www.proma.co.th/wp-content/uploads/2022/09/Bowl-Set-Household-Ceramic-and-Chopsticks-Pastel-Color-10.jpg",
+            "name": "ชุดจานชาม",
+            "price": 14
+        },
+        {
+            "quantity": 3,
+            "imageSrc": "https://laz-img-sg.alicdn.com/p/7f544b42d19f8ddb6788677cb3044f25.jpg",
+            "name": "หม้อหุงข้าว",
+            "price": 22
+        },
+        {
+            "quantity": 4,
+            "imageSrc": "https://f.btwcdn.com/store-47992/product/96d90f1e-ba21-b72f-64a4-641825147a66.jpg",
+            "name": "ชุดมีดทำครัว",
+            "price": 10
+        },
+        {
+            "quantity": 5,
+            "imageSrc": "https://img.ltwebstatic.com/images3_spmp/2023/11/09/93/1699538035cd6768a2a2e5fc47ca0f769ce8ccd6c0_thumbnail_900x.webp",
+            "name": "กระทะ",
+            "price": 18
+        },
+        {
+            "quantity": 6,
+            "imageSrc": "https://www.gourmetandcuisine.com/Images/editor_upload/_editor20201011032610_original.jpg",
+            "name": "ไมโครเวฟ",
+            "price": 60
+        }
+    ]
+}
